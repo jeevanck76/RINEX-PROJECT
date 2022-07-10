@@ -15,4 +15,4 @@ ls2=np.append(ip3,ip4)
 ls=np.append(ls1,ls2)
 op = model.predict([ls])
 if st.button('Predict'):
-  st.title(op[0]) 
+  st.title(op[0])    
