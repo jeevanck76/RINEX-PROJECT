@@ -1,5 +1,4 @@
-%%writefile app.py
-#%%writefile app.py is a magic command which creates a file named app.py
+
 import streamlit as st
 import joblib
 import numpy as np
